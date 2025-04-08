@@ -1,56 +1,59 @@
-### Hi there, I'm Nisanthan K - aka [Nisanthan Kathirkamanathan](https://www.nisanthan.dev) 👋
+### Hi there, I'm Sanjeev T - aka [Sanjeev Thanarasa](https://sanjeev-thanarasa.github.io/my-portfolio/) 👋
 
-## I'm a AI/ML Engineer, Web Developer, Mobile Developer, and Teacher!
-- 🔭 I’m currently reading MSc. Web Engineering at TU Chemnitz!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn Terraform, Ansible & some cloud technologies.
-- ⚡ Fun fact: I love watching movies.
-- 💬 Ask me about AI, ML, React, Node, Flutter
-- 📫 Reach me at nisakathir@gmail.com
+## I'm a Software Engineer, AI/ML Enthusiast, Web & Mobile App Developer!
+- 🔭 I’m currently working on AI-based trading prediction systems and mobile apps.
+- 🌱 I’m always learning something new – currently diving deeper into MERN & AI tech.
+- 👯 I’m looking to collaborate on AI projects, Flutter apps, and full-stack web apps.
+- 🥅 2025 Goals: Land a remote job, grow my freelance business, and level up in AI.
+- ⚡ Fun fact: I love coding at night and learning through YouTube.
+- 💬 Ask me about Flutter, React, Node.js, Firebase, Python, AI/ML, and WordPress.
+- 📫 Reach me at sanjeev.thanarasa@gmail.com
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][websiteprofile]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][websiteprofile]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][websiteprofile]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][websiteprofile]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][websiteprofile]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][websiteprofile]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][websiteprofile]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][websiteprofile]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][websiteprofile]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][websiteprofile]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][websiteprofile]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][websiteprofile]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][websiteprofile]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][websiteprofile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][websiteprofile]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][websiteprofile]
+### 🚀 Languages and Tools:
 
-<br />
-<br />
-
-### Profile & Stats:
-
-[![Nisanthan's github stats](https://github-readme-stats.vercel.app/api?username=Nishaanthan&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/Nishaanthan)
-[![Nisanthan's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanthan&count_private=true&show_icons=true&theme=vue&layout=compact)](https://github.com/Nishaanthan)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />][websiteprofile]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />][websiteprofile]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][websiteprofile]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][websiteprofile]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][websiteprofile]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][websiteprofile]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][websiteprofile]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][websiteprofile]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][websiteprofile]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][websiteprofile]
+[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][websiteprofile]
 
 <br />
 <br />
 
 ---
-[website]: https://www.nisanthan.dev
-[twitter]: https://twitter.com/Nishaanthan
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/nisanthan-kathirkamanathan
-[websiteprofile]: [https://www.nisanthan.dev/#resume](https://sanjeev-thanarasa.github.io/my-portfolio/)
+
+### 📊 GitHub Stats:
+
+[![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeev-thanarasa&count_private=true&show_icons=true&theme=radical)](https://github.com/sanjeev-thanarasa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-thanarasa&layout=compact&theme=radical)](https://github.com/sanjeev-thanarasa)
+
+---
+
+### 📫 Connect with me:
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+
+<br />
+<br />
+
+---
+
+[website]: https://sanjeev-thanarasa.github.io/my-portfolio/  
+[twitter]: https://twitter.com/yourusername  
+[youtube]: https://youtube.com/yourchannel  
+[instagram]: https://instagram.com/yourusername  
+[linkedin]: https://linkedin.com/in/sanjeev-thanarasa  
+[websiteprofile]: https://sanjeev-thanarasa.github.io/my-portfolio/
