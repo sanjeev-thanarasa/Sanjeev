@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats:
 
-[![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeev-thanarasa&count_private=true&show_icons=true&theme=radical)](https://github.com/sanjeev-thanarasa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-thanarasa&layout=compact&theme=radical)](https://github.com/sanjeev-thanarasa)
+[![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeev-thanarasa&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/sanjeev-thanarasa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-thanarasa&layout=compact&theme=vue)](https://github.com/sanjeev-thanarasa)
 
 ---
 
